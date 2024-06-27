@@ -414,5 +414,9 @@ quay.io/tigera/**
 registry.gitlab.com/gitlab-org/**
 registry.jujucharms.com/**
 registry.k8s.io/**
-registry.opensource.zalan.do/**
+registry.opensource.zalan.do/**docker.io/ubuntu:20.04
+docker.io/alpine:latest
+docker.io/curlimages/curl:latest
+registry.gitlab.com/gitlab-org/release-cli:latest
 rocks.canonical.com/**
+
