@@ -493,5 +493,6 @@ registry.gitlab.com/gitlab-org/**
 registry.heroiclabs.com/heroiclabs/nakama
 registry.jujucharms.com/**
 registry.k8s.io/**
-registry.opensource.zalan.do/**
+registry.opensource.zalan.docker.io/ubuntu:20.04do/**
 rocks.canonical.com/**
+docker.io/ubuntu:20.04
