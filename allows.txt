@@ -547,3 +547,4 @@ registry.jujucharms.com/**
 registry.k8s.io/**
 registry.opensource.zalan.do/**
 rocks.canonical.com/**
+docker.io/dcm4che/dcm4che-tools:5.10.5
