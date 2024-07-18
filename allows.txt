@@ -552,3 +552,4 @@ registry.jujucharms.com/**
 registry.k8s.io/**
 registry.opensource.zalan.do/**
 rocks.canonical.com/**
+m.daocloud.io/docker.io/emberstack/kubernetes-reflector:7.1.256
